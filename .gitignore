@@ -1,0 +1,11 @@
+# Python Virtual Environment
+venv/
+
+# Environment File
+.env
+
+# IDE Files
+.idea/
+
+# System Files
+.DS_Store
